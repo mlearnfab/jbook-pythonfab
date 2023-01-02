@@ -9,7 +9,7 @@
 
 **Q.** *How much does cost?*
 
-**A.** Python for Absolute Beginners is free.
+**A.** Python for Absolute Beginners is free for the time  being.
 
 ---
  
