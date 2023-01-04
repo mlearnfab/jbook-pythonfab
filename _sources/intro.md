@@ -1,19 +1,17 @@
 # <font color="maroon">Welcome</font>
 
 
-**Python for Absolute Beginners** <font color="magenta">(@pythonfab)</font> is a free online program designed for busy professionals who want to learn programming quickly and efficiently. 
-
-Unlike most offerings, the course combines self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you computation skills and the power of abstract thinking, not simply coding. 
+**Python for Absolute Beginners** is a free online program designed for busy professionals who want to learn programming quickly and efficiently. Unlike most offerings, the workshops and course sessions combine self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you computation skills and the power of abstract thinking, not simply coding. 
 
 
 
-## <font color="maroon">2023 Schedule</font>
+# <font color="maroon">Schedule</font>
 
-In January we will be primarily offering sessions in setting up a "professional development environment." The sessions are not recommended for those who are entirely new to programming. 
+All sessions are online and hosted in Zoom. The most current session schedule is posted in the [Meetup: Python for Absolute Beginners](https://www.meetup.com/python-for-absolute-beginners/). The schedule can also be found on the [schedule](page-schedule) page. Please be sure to join the Meetup group for news and the most up-to-date schedule.
+s
+# <font color="maroon">Registration</font>
 
-### January 
 
-- Python Professional Development Environment - Session One (Concept)
-    - January 10, 2023 at 7:00 PM, Eastern
-- Python Professional Development Environment - Session Two (Hands-On) 
-    - January 17, 2023 at 7:00 PM, Eastern
+If you are interested in attending any of the sessions, you must register (one-time) by creating an account in our Moodle Learning Management Systems. Registration instructions can be found on our [registration](page-registration) page.
+
+The Moodle Learning Management System provides instructional resources, recordings of the live sessions, and feedback from the instructors on problems and exercises.
