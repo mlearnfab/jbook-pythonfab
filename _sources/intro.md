@@ -12,5 +12,5 @@ All sessions are online and hosted in Zoom. The most current session schedule is
 # <font color="maroon">Registration</font>
 
 
-If you are interested in attending any of the sessions, you must register (one-time) by creating an account in our Moodle Learning Management Systems. Registration instructions can be found on our [registration](page-registration) page.
+If you are interested in attending any of the sessions, you must register by creating an account in our Moodle Learning Management Systems. Registration instructions can be found the [registration](page-registration) page.
 

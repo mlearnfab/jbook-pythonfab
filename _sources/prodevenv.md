@@ -1,5 +1,5 @@
 (page-prodevenv)=
-# <font color="maroon">Python Pro Development Environment</font>
+# <font color="maroon">Python Pro Dev Environment</font>
 
 
 A pilot knows how to fly an airplane. In order to fly an airplane a pilot needs to know how to use the instruments in a cockpit. In two session you will "learn to fly" as a professional programmer by learning how to control the essential instruments in a programmer's cockpit.
