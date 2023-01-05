@@ -31,8 +31,8 @@
 | Date     | Day   |     Time   | Duration | Session Title                                           |
 |----------|-------|------------|----------|---------------------------------------------------------|
 | Mar 2nd  | Thu   |7:00 pm EST | 60 mins  |<font color="blue">**Basic Python: Level II**</font>  - Session 4                     |
-| Mar 7th  | Tue   |7:00 pm EST | 60 mins  |<font color="pink">**Basic Python: Level III**</font> - Session 1                     |
-| Mar 14th | Thu   |7:00 pm EST | 60 mins  |<font color="pink">**Basic Python: Level III**</font> - Session 2                     |
-| Mar 16th | Tue   |7:00 pm EST | 60 mins  |<font color="pink">**Basic Python: Level III**</font> - Session 3                     |
-| Mar 21st | Thu   |7:00 pm EST | 60 mins  |<font color="pink">**Basic Python: Level III**</font> - Session 4                     |
+| Mar 7th  | Tue   |7:00 pm EST | 60 mins  |<font color="red">**Basic Python: Level III**</font> - Session 1                     |
+| Mar 14th | Thu   |7:00 pm EST | 60 mins  |<font color="red">**Basic Python: Level III**</font> - Session 2                     |
+| Mar 16th | Tue   |7:00 pm EST | 60 mins  |<font color="red">**Basic Python: Level III**</font> - Session 3                     |
+| Mar 21st | Thu   |7:00 pm EST | 60 mins  |<font color="red">**Basic Python: Level III**</font> - Session 4                     |
 
