@@ -8,10 +8,9 @@
 # <font color="maroon">Schedule</font>
 
 All sessions are online and hosted in Zoom. The most current session schedule is posted in the [Meetup: Python for Absolute Beginners](https://www.meetup.com/python-for-absolute-beginners/). The schedule can also be found on the [schedule](page-schedule) page. Please be sure to join the Meetup group for news and the most up-to-date schedule.
-s
+
 # <font color="maroon">Registration</font>
 
 
 If you are interested in attending any of the sessions, you must register (one-time) by creating an account in our Moodle Learning Management Systems. Registration instructions can be found on our [registration](page-registration) page.
 
-The Moodle Learning Management System provides instructional resources, recordings of the live sessions, and feedback from the instructors on problems and exercises.

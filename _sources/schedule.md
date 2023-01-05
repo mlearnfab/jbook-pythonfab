@@ -1,5 +1,5 @@
 (page-schedule)=
-# <font color="maroon">Schedule 2023</font>
+# <font color="maroon">Schedule</font>
 
 ## January 
 
@@ -16,10 +16,10 @@
 
 | Date     | Day   |     Time   | Duration | Session Title                                           |
 |----------|-------|------------|----------|---------------------------------------------------------|
-| Feb 7th  | Tue   |7:00 pm EST | 60 mins  | <font color="green">Basic Python: Level I </font> - Session 1                      |
-| Feb 9th  | Thu   |7:00 pm EST | 60 mins  | <font color="green">Basic Python: Level I </font> - Session 2                      |
-| Feb 14th | Tue   |7:00 pm EST | 60 mins  | <font color="green">Basic Python: Level I </font> - Session 3                      |
-| Feb 16th | Thu   |7:00 pm EST | 60 mins  | <font color="green">Basic Python: Level I </font>  - Session 4                      |
+| Feb 7th  | Tue   |7:00 pm EST | 60 mins  | <font color="green">**Basic Python: Level I** </font> - Session 1                      |
+| Feb 9th  | Thu   |7:00 pm EST | 60 mins  | <font color="green">**Basic Python: Level I** </font> - Session 2                      |
+| Feb 14th | Tue   |7:00 pm EST | 60 mins  | <font color="green">**Basic Python: Level I** </font> - Session 3                      |
+| Feb 16th | Thu   |7:00 pm EST | 60 mins  | <font color="green">**Basic Python: Level I** </font>  - Session 4                      |
 | Feb 21st | Tue   |7:00 pm EST | 60 mins  | Basic Python: Level II - Session 1                      |
 | Feb 23rd | Thu   |7:00 pm EST | 60 mins  | Basic Python: Level II - Session 2                      |
 | Feb 28th | Tue   |7:00 pm EST | 60 mins  | Basic Python: Level II - Session 3                      |
