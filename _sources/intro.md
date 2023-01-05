@@ -3,6 +3,16 @@
 
 **Python for Absolute Beginners** is a free online program designed for busy professionals who want to learn programming quickly and efficiently. Unlike most offerings, the workshops and course sessions combine self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you computation skills and the power of abstract thinking, not simply coding. 
 
+# <font color="maroon">Courses</font>
+
+The following courses are currently being offered. Please see corresponding web page for specific course information, including curriculum.
+
+- [Python Professional Development Environment](page-prodevenv). 
+- [Basic Python, Level I](page-pbasiclevel1). 
+- [Basic Python, Level II](page-pbasiclevel2). 
+- [Basic Python, Level III](page-pbasiclevel3).
+
+More courses will be offered in the coming weeks.
 
 
 # <font color="maroon">Schedule</font>

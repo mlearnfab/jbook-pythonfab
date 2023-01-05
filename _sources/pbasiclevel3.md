@@ -12,3 +12,4 @@ Basic Python, Level III is a two week course. We continue our study of Python by
 
 - **String Methods:** In Basic Python, Level I we introduced ``string`` as a basic data type for character data. We examine how to manipulate characters and text using string methods.
 
+**Prerequisites:** Basic Python, Level II
